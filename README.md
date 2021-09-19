@@ -15,7 +15,7 @@ As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowi
 
 
 ![Ashfa Iqbal GitHub stats](https://github-readme-stats.vercel.app/api?username=ashfaiqbal263&count_private=true)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaiqbal263" alt="ahmedraza17260" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaiqbal263" alt="ashfaiqbal263" /></p>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaiqbal263&" alt="ashfaiqbal263" /></p>  
 
 
